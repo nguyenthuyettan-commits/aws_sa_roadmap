@@ -1,5 +1,5 @@
 # aws_sa_roadmap
-This repo record my journey to become a professional cloud sa
+
 # 🎯 AWS Presales Solutions Architect Portfolio & Knowledge Base
 
 A secure, centralized repository dedicated to architectural blueprints, technical documentation, compliance frameworks, and Architecture Decision Records (ADRs). This knowledge base is structured to support enterprise-grade cloud migration, modernization, and FinOps discovery phases.
