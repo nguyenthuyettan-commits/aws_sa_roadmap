@@ -33,6 +33,7 @@ A secure, centralized repository dedicated to architectural blueprints, technica
 🗓 Detailed Study & Execution Schedule
 
 🛠 PHASE 0: Setup & Orientation (Week 1)
+
 Goal: Environment readiness & selecting an active pipeline deal as a continuous case study.
 
 Sessions:
@@ -44,6 +45,7 @@ Session 2 (1.0h) - GitHub for Documentation: Why SAs document architectural deci
 Session 3 (1.0h) - Case Study Selection: Selecting an active enterprise account (e.g., PV***) to ground all technical concepts into a real-world solution.
 
 🌐 PHASE 1: AWS Networking Foundation (Weeks 2–5)
+
 Goal: Master core networking patterns — the root cause of 80% of migration bottlenecks.
 
 Sessions:
@@ -61,6 +63,7 @@ Session 5 (1.5h) - Route 53 & DNS Patterns: DNS resolution strategies and routin
 Session 6 (2.0h) - Terraform Blueprint Reading: Understanding Infrastructure-as-Code (IaC) block syntax to effectively interpret SA team scripts.
 
 🔐 PHASE 2: AWS Cloud-Native Security & Compliance VN (Weeks 6–9)
+
 Goal: Independently answer security, sovereignty, and isolation questions without waiting for technical delivery teams.
 
 Sessions:
@@ -78,6 +81,7 @@ Session 5 (2.0h) - Well-Architected Framework (Security Pillar): Running an arch
 Session 6 (2.5h) - Compliance VN (Decree 13/PDPL, ISO 27001): Mapping local data residency and data protection laws directly to AWS regional services and security controls.
 
 🏆 PHASE 3: AWS SAA-C03 Certification (Weeks 10–13)
+
 Goal: Secure the Solutions Architect – Associate credential to cement market credibility.
 
 Sessions:
@@ -91,6 +95,7 @@ Session 3 (3.0h) - Domain 4 & Full Mock Exams: Cost-Optimized Architectures and 
 Session 4 (3.0h+) - Official Examination: Completing the AWS official proctored SAA-C03 test.
 
 🚀 PHASE 4: Real-World Presales Application (Weeks 14–17)
+
 Goal: Close the loop by translating technical validation into live pipeline proposals with peer-review.
 
 Sessions:
@@ -104,15 +109,6 @@ Session 3 (2.0h) - Mock Q&A (CISO/IT Director Focus): Compiling a tactical respo
 Session 4 (1.5h) - Technical Peer Review: Pitching the architecture blueprint and ADRs to internal technical leads for critical feedback.
 
 Session 5 (Variable) - Deal Insertion: Integrating the finalized, reviewed architectural layout directly into a live client commercial proposal.
-
-🎯 PHASE 5: Advanced Specialization Stretch (Year 2+)
-Goal: Select a hyper-focused path depending on common bottlenecks observed across your top 10 historical enterprise accounts.
-
-Sessions:
-
-Session 1 (1.5h) - Security Specialty vs. Advanced Networking: Evaluating which domain yields the highest closing velocity for my segment.
-
-Session 2 (1.0h) - Next 6-Month Execution: Drafting the formal outline for the next evolutionary stage.
 
 📑 Core Architecture Principles (Weekly Guardrails)
 Solution-Oriented, Not Ops-Heavy: Focus on reading infrastructure, interpreting anomalies, and evaluating security postures to communicate effectively with client executives, rather than building production-level pipelines from scratch.
