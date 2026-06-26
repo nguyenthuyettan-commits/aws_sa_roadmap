@@ -41,7 +41,7 @@ Session 1 (1.5h) - AWS Sandbox Account: Understanding Sandbox separation. Setup 
 
 Session 2 (1.0h) - GitHub for Documentation: Why SAs document architectural decisions beyond standard CRM logging. Repo structure initializing (presales-notes).
 
-Session 3 (1.0h) - Case Study Selection: Selecting an active enterprise account (e.g., PVCFC) to ground all technical concepts into a real-world solution.
+Session 3 (1.0h) - Case Study Selection: Selecting an active enterprise account (e.g., PV***) to ground all technical concepts into a real-world solution.
 
 🌐 PHASE 1: AWS Networking Foundation (Weeks 2–5)
 Goal: Master core networking patterns — the root cause of 80% of migration bottlenecks.
@@ -110,9 +110,9 @@ Goal: Select a hyper-focused path depending on common bottlenecks observed acros
 
 Sessions:
 
-Session 1 (1.5h) - Security Specialty vs. Advanced Networking: Evaluating which domain yields the highest closing velocity for your segment.
+Session 1 (1.5h) - Security Specialty vs. Advanced Networking: Evaluating which domain yields the highest closing velocity for my segment.
 
-Session 2 (1.0h) - Next 6-Month Execution: Drafting the formal outline for the next evolutionary stage (Roadmap v4.0).
+Session 2 (1.0h) - Next 6-Month Execution: Drafting the formal outline for the next evolutionary stage.
 
 📑 Core Architecture Principles (Weekly Guardrails)
 Solution-Oriented, Not Ops-Heavy: Focus on reading infrastructure, interpreting anomalies, and evaluating security postures to communicate effectively with client executives, rather than building production-level pipelines from scratch.
